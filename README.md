@@ -9,7 +9,7 @@ This project demonstrates log ingestion and analysis using **Splunk Free Demo**.
 ![Failed Login Chart](assets/failed_logins_chart.png)
 
 ### 2. Firewall Blocks
-![Firewall Pie Chart](assets/firewall_pie.png)
+![Firewall Pie Chart](https://github.com/partz2510/threat-detection-dashboard/blob/main/assets/firewall_table.png?raw=true)
 
 ### 3. Application Login Errors
 ![App Errors](assets/app_errors_chart.png)
