@@ -12,7 +12,7 @@ This project demonstrates log ingestion and analysis using **Splunk Free Demo**.
 ![Firewall Pie Chart](https://github.com/partz2510/threat-detection-dashboard/blob/main/assets/firewall_table.png?raw=true)
 
 ### 3. Application Login Errors
-![App Errors](assets/app_errors_chart.png)
+![App Errors](https://github.com/partz2510/threat-detection-dashboard/blob/main/assets/apps_errors_chart.png?raw=true)
 
 ### 4. Multi-Source Correlation
 ![Multi-Source Table](assets/multi_source_table.png)
