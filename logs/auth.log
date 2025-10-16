@@ -1,0 +1,5 @@
+Oct 16 11:45:23 server1 sshd[1021]: Failed password for invalid user admin from 192.168.1.24 port 55210 ssh2
+Oct 16 11:46:12 server1 sshd[1043]: Failed password for root from 192.168.1.24 port 55215 ssh2
+Oct 16 11:47:44 server1 sshd[1071]: Accepted password for root from 192.168.1.50 port 55245 ssh2
+Oct 16 11:49:03 server1 sshd[1100]: Failed password for invalid user test from 10.0.0.85 port 60022 ssh2
+Oct 16 11:50:09 server1 sshd[1115]: Failed password for root from 192.168.1.24 port 55220 ssh2
