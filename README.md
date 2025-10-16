@@ -11,14 +11,12 @@ The **Threat Detection Dashboard** visualizes log data from multiple sources:
 - Detects repeated failed login attempts from operating system logs.
 - Visualization: **Bar Chart**
 - Example:
-- 
 ![Failed Login Chart](assets/failed_logins_chart.png)
 
 ### 2️⃣ Firewall Blocks
 - Displays blocked connection attempts and reasons (e.g., brute force, multiple failed logins).  
 - Visualization: **Pie Chart**
 - Example:
-- 
 ![Firewall Pie Chart](https://github.com/partz2510/threat-detection-dashboard/blob/main/assets/firewall_table.png?raw=true)
 
 ### 3️⃣ Application Errors
