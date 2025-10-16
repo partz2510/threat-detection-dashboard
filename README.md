@@ -1,7 +1,4 @@
 
-# threat-detection-dashboard
-Splunk project for threat detection &amp; correlation
-=======
 # Threat detection dashboard (Demo Version)
 
 This project demonstrates log ingestion and analysis using **Splunk Free Demo**.
